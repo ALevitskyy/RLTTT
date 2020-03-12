@@ -9,6 +9,5 @@ The code implements NxM dimensional Tic-Tac-Toe game which can be played in cons
 
 Check interfaces.py to see how to enter all these modes.
 
-Check Q_agent.py for training an agent for mode 3
-Check DQN_agent.py for training an agent for mode 4
+Check Q_agent.py for training an agent for mode 3; check DQN_agent.py for training an agent for mode 4
 
